@@ -16,7 +16,7 @@ export const StyledField = styled(Field)`
   transition: border-color 0.4s ease;
   width: 400px;
   &:focus {
-    border-color: darkorange;
+    border-color: #0000;
   }
 `;
 

@@ -27,7 +27,7 @@ export const ContactData = styled.p`
   justify-content: space-between;
   padding: 10px;
   gap: 25px;
-  border: 1px solid darkorange;
+  border: 1px solid black;
   border-radius: 4px;
   margin-bottom: 6px;
 `;
